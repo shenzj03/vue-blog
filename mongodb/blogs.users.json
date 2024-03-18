@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "65f1cb10865bcea37cad38dd"
+  },
+  "account": "admin",
+  "username": "admin",
+  "password": "$2a$10$bohxc8peIiE7w58/8SJdTuuokmsnQyslAk9cR3KvMIyiP1KzKtylK",
+  "role": 0,
+  "__v": 0,
+  "avatar": "/avatarUploads/6a7ad59e6bfcf12cc2716e2181a4a3dc"
+},
+{
+  "_id": {
+    "$oid": "65f287d556755172def2d7f1"
+  },
+  "account": "sss",
+  "username": "sss",
+  "password": "$2a$10$XsGkcBh2k8No3C/Yxg5vLOgwdWnyk/bBiFlHOzTnV1TqRVL8ilY6S",
+  "role": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f30599d4b166c931970a3f"
+  },
+  "account": "aaa",
+  "username": "ase",
+  "password": "$2a$10$oBc27Bv1UwAUmq/gYgIaNuamhSA9CgNoDYr7S6MBRtn7QCsEmmRS6",
+  "role": 2,
+  "__v": 0
+}]

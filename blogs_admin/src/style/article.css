@@ -1,0 +1,8 @@
+.el-checkbox-group {
+    border: 1px solid #dcdfe6;
+    border-radius: 4px;
+    padding: 0px 10px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+}

@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "65f2a8b74d913ac0039a61dc"
+  },
+  "category": "vue",
+  "category_article": -1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f2a95aaafa2190fe46391d"
+  },
+  "category": "php",
+  "category_article": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f2b670cd66648fd59e7a81"
+  },
+  "category": "测试",
+  "category_article": 3,
+  "__v": 0
+}]
